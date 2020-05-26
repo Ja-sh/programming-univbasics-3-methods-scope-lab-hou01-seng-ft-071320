@@ -1,6 +1,6 @@
 
 def mario
-  phrase =  "It's a me mario"
+  phrase =  "It's a me Mario"
   p phrase
 end
 
