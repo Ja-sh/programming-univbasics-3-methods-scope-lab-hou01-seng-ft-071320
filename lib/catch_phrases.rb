@@ -1,7 +1,6 @@
 
 def mario
-  phrase =  "It's a me Mario"
-  p phrase
+  phrase =  "It's a me Mario" 
 end
 
 def toadstool
