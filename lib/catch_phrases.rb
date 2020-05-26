@@ -1,6 +1,7 @@
 
 def mario
-  phrasehrase
+  phrase =  " "
+  puts phrase
 end
 
 def toadstool
