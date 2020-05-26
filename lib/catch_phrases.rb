@@ -4,8 +4,8 @@ def mario
   puts phrase
 end
 
-  phrase = "It's-a me, Mario!"
-  puts phrase
+  #phrase = "It's-a me, Mario!"
+  #puts phrase
 
 def toadstool
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
